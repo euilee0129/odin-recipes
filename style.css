@@ -1,3 +1,38 @@
-h1 {
+h1,h2,h3 {
     text-align: center;
 }
+
+li {
+    font-size: 32px;
+}
+
+a {
+    color: #ffffff;
+}
+
+#link1,
+.link1 {
+    background-color: red;
+}
+
+.link2 {
+    background-color: rgb(0, 128, 0);
+}
+
+.link3 {
+    background-color: orange;
+}
+
+.banhmi-heading1,.banhmi-heading3 {
+    background-color: pink;
+}
+.banhmi-heading2 {
+    color: blue;
+}
+ .banhmi-heading3 {
+    font-size: 24px;
+ }
+ .banhmi-heading3.steps {
+    background-color: greenyellow;
+    font-weight: bold;
+ }
