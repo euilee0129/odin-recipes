@@ -6,6 +6,7 @@ li {
     font-size: 32px;
 }
 
+.padseeew-heading2,
 a {
     color: #ffffff;
 }
@@ -23,16 +24,33 @@ a {
     background-color: orange;
 }
 
-.banhmi-heading1,.banhmi-heading3 {
+/* .pancit-heading1, */
+.banhmi-heading1,.banhmi-heading3,
+.padseeew-heading1 {
     background-color: pink;
 }
 .banhmi-heading2 {
     color: blue;
 }
- .banhmi-heading3 {
-    font-size: 24px;
+ .banhmi-heading3,
+ .padseeew-heading2,
+ .padseeew-heading3 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
  }
  .banhmi-heading3.steps {
     background-color: greenyellow;
     font-weight: bold;
  }
+
+.padseeew-heading2 {
+    background-color: #000000;
+}
+.padseeew-heading3 {
+    background-color: yellow;
+}
+
+.padseeew-image {
+    width: 200px;
+    height: 400px;
+}
