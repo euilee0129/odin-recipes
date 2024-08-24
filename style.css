@@ -7,6 +7,7 @@ li {
 }
 
 .padseeew-heading2,
+.steps,
 a {
     color: #ffffff;
 }
@@ -16,7 +17,8 @@ a {
     background-color: red;
 }
 
-.link2 {
+.link2,
+.steps {
     background-color: rgb(0, 128, 0);
 }
 
@@ -24,10 +26,13 @@ a {
     background-color: orange;
 }
 
-/* .pancit-heading1, */
-.banhmi-heading1,.banhmi-heading3,
-.padseeew-heading1 {
-    background-color: pink;
+/* debug */
+.banhmi-heading3 {
+    background-color: pink ;
+}
+
+p h1 {
+    background-color: pink ;
 }
 .banhmi-heading2 {
     color: blue;
@@ -46,11 +51,19 @@ a {
 .padseeew-heading2 {
     background-color: #000000;
 }
-.padseeew-heading3 {
+.padseeew-heading3,
+.pancit-heading2 {
     background-color: yellow;
 }
 
 .padseeew-image {
     width: 200px;
     height: 400px;
+}
+.pancit-heading3.ingredients {
+    color: rgb(255, 0, 0);
+}
+
+.pancit-heading3.steps {
+    font-size: 20px;
 }
