@@ -10,4 +10,4 @@ Learned how to get path of files for including image</p>
 cool shorthand for padding utilizing omits: ex.
 <li>8px 12px 4px 16px (top right bottom left) </li> 
 <li> or 8px(top AND bottom) 12px(right AND left)</li>
-<li> or 1px 2px 2px (top left AND right bottom)</li>
+<li> or 4px 16px 8px (top left AND right bottom)</li>
